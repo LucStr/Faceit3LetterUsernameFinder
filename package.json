@@ -1,0 +1,14 @@
+{
+  "name": "faceit3letterusernamefinder",
+  "version": "1.0.0",
+  "description": "This is an app used to find a three letter faceit username",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Strebel",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
